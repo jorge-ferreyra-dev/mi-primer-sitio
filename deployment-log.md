@@ -57,3 +57,30 @@
 - Persona que probó: Julio(padre)
 - Sus comentarios: La página presenta estilos sutiles
 - ¿Encontró algún problema? No
+
+## Primera actualización
+
+**Fecha:** 04/10/26
+**Cambio realizado:** Cambio de título
+
+### Proceso:
+- Tiempo que tardó en verse el cambio: 2 minutos
+- ¿Funcionó correctamente? Sí
+
+## Reflexión Final
+
+### ¿Qué aprendí?
+-Desplegar en cuestion de minutos un proyecto desde el local a producción.
+
+### ¿Qué fue lo más difícil?
+-No se me presentaron dificultades
+
+### ¿Cómo lo superé?
+-A partir de un proyecto simple de html, css y javaScript , lo subi a GitHub para practicar GitHub Pages.
+
+### Diferencias clave entre local y producción:
+En el local el proyecto solo era visible por mi en mi pc, ahora que esta en produccion puedo compartir el link para que otras personas lo vean desde sus dispositivos.
+
+
+### Próximos pasos:
+-Convertir este sitio web en un futuro portafolio para demostrar conocimientos, habilidades y proyectos.
